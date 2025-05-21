@@ -128,13 +128,6 @@ java Main
 - Student ID must be within range 1-60
 - Status must be either "Approved" or "Rejected"
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
 
