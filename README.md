@@ -1,7 +1,6 @@
 # On-Duty-Management-System
 A Java and MySQL-based console application to manage student On-Duty (OD) requests with submission, review, and approval functionalities.
-Got it! Here's your clean README.md file without any links:
-
+Got 
 
 ---
 
@@ -39,7 +38,7 @@ A Java and MySQL-based console application to manage student On-Duty (OD) reques
 1. Clone the repository and navigate into it.
 2. Create the database using the following SQL:
 
-sql
+```sql
 CREATE DATABASE od_management;
 
 USE od_management;
@@ -52,7 +51,9 @@ CREATE TABLE od_requests (
     status ENUM('Pending', 'Approved', 'Rejected') DEFAULT 'Pending'
 );
 
-3. Compile the Java program
+3. Compile the Java program:
+
+
 
 4. Run the application:
 
@@ -79,4 +80,6 @@ Admin panel and analytics
 User authentication and roles
 
 Integration with campus systems
+
+
 
